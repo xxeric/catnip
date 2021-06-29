@@ -1,12 +1,14 @@
 {
-  "name": "seven-ui",
+  "name": "dialog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "lib": "vue-cli-service build --target lib packages/index.js --name catnip --dest lib"
   },
   "dependencies": {
+    "catnip-ui": "^1.0.1",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
