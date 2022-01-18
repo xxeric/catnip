@@ -1,6 +1,6 @@
 # Modal Dialog Box
 
-[![license](https://img.shields.io/badge/license-MIT-blue)](./LICENSE) [![author](https://img.shields.io/badge/author-CNLMX-orange)](https://github.com/cnlmx)
+[![license](https://img.shields.io/badge/license-MIT-blue)](./LICENSE) [![author](https://img.shields.io/badge/author-Eric-orange)](https://github.com/xxeric)
 
 > Component Library: Catnip UI
 
@@ -17,9 +17,9 @@
 ## Preview
 
 <div align=center>
-  <img src="https://gitee.com/cnlmx/blog/raw/master/img/dialog01.jpg">
-  <img src="https://gitee.com/cnlmx/blog/raw/master/img/dialog02.jpg">
-<img src="https://gitee.com/cnlmx/blog/raw/master/img/dialog03.jpg">
+  <img src="https://gitee.com/xxeric/blog/raw/master/img/dialog01.jpg">
+  <img src="https://gitee.com/xxeric/blog/raw/master/img/dialog02.jpg">
+<img src="https://gitee.com/xxeric/blog/raw/master/img/dialog03.jpg">
 </div>
 
 
