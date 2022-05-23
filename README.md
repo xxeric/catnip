@@ -17,9 +17,9 @@
 ## Preview
 
 <div align=center>
-  <img src="https://gitee.com/xxeric/blog/raw/master/img/dialog01.jpg">
-  <img src="https://gitee.com/xxeric/blog/raw/master/img/dialog02.jpg">
-<img src="https://gitee.com/xxeric/blog/raw/master/img/dialog03.jpg">
+  <img src="https://raw.githubusercontent.com/xxeric/blog/master/img/dialog01.jpg">
+  <img src="https://raw.githubusercontent.com/xxeric/blog/master/img/dialog02.jpg">
+<img src="https://raw.githubusercontent.com/xxeric/blog/master/img/dialog03.jpg">
 </div>
 
 
